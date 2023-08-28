@@ -1,5 +1,5 @@
-# Codesearch Search Engine
-I have created a search engine-"Codesearch" comprising DSA Problems. 
+# CodeQuest Search Engine
+I have created a search engine-"CodeQuest" comprising DSA Problems. 
 
 ## Technologies
 Project is created with:
